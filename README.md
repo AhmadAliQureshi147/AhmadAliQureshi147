@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there! 👋 I'm Muhammad Ahmad Ali Qureshi, a dedicated student currently pursuing my Bachelor's degree in Cyber Security at Air University, Pakistan.<br>I'm currently working on Flutter App Development and Cyber Security.<br>I'm looking forward to collaborating in Cyber Security and Development (Software & Application).<br>Skills:</br><br>Python Development<br>Flutter (Dart) App Development<br>CTF Player (Capture the Flag) Hackathons<br><br>Interests:<br>Reverse Engineering<br>Digital Forensics<br>Web Exploitation<br>Development (Python, Flutter)<br>
+Hello there! 👋 I'm Muhammad Ahmad Ali Qureshi, a dedicated student currently pursuing my Bachelor's degree in Cyber Security at Air University, Pakistan.<br>I'm currently working on Flutter App Development and Cyber Security.<br>I'm looking forward to collaborating in Cyber Security and Development (Software & Application).<br><br>Skills:<br>Python Development<br>Flutter (Dart) App Development<br>CTF Player (Capture the Flag) Hackathons<br><br>Interests:<br>Reverse Engineering<br>Digital Forensics<br>Web Exploitation<br>Development (Python, Flutter)<br><br>Contact me at: maaq2016@gmail.com
 
 
 ## 🌐 Socials:
