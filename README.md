@@ -20,9 +20,9 @@ Muhammad Ahmad Ali Qureshi — Air University cyber grad who builds **autonomous
 
 > I break things professionally.  
 > I automate things obsessively.  
-> I ship apps that don't cry in production. 😌
+> I ship apps that survive real users. 🚀
 
-Currently: **Research Officer** · Crypto System Development · private LLMs, agentic pipelines, mobile AppSec & malware analysis.
+☕ Day job energy: researching AI + security systems, locking down mobile apps, and making malware explain itself.
 
 ---
 
@@ -86,30 +86,16 @@ Currently: **Research Officer** · Crypto System Development · private LLMs, ag
 ## 📊 Stats (aka proof I touch grass… sometimes)
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AhmadAliQureshi147&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAliQureshi147&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AhmadAliQureshi147&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAliQureshi147&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadAliQureshi147&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=AhmadAliQureshi147&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AhmadAliQureshi147&theme=radical&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 🎲 Random chaos
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=AhmadAliQureshi147&label=Profile%20hits&color=6&icon=5&pretty=true" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=AhmadAliQureshi147&label=Profile%20views&color=a855f7&style=for-the-badge" />
 </p>
 
 ---
